@@ -14,4 +14,5 @@ toggleStrutsKey XConfig {XMonad.modMask = modMask} = (modMask, xK_b)
 
 myConfig = defaultConfig {
     terminal = "terminator -T Terminator"
+    , workspaces = map show [1 .. 9 :: Int]
 }
