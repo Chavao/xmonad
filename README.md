@@ -19,4 +19,4 @@ $ xmonad --restart
 
 preview:
 
-<img src="http://i.imgur.com/MfjCT5K.png" />
+<img src="http://i.imgur.com/yD8w1he.png" />
