@@ -16,3 +16,7 @@ $ ln -sf xmonad ~/.xmonad
 $ xmonad --recompile
 $ xmonad --restart
 ```
+
+preview:
+
+<img src="http://i.imgur.com/MfjCT5K.png" />
